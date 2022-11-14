@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @spacethunderstorm
+- 👀 I’m interested in learning the basics of coding, and figuring out what language i wanna dive into the depths off. 
+- 🌱 I’m currently learning Python and HTML & CSS on CodeAcademy
+- 💞️ I’m looking to collaborate on anything with anyone that is willing to learn me as much as possible!
+- 📫 I'm reachable on Discord 'spacethunderstorm#2366' feel free to reach out!
